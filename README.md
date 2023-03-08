@@ -8,3 +8,5 @@ To-Do list:
 - [ ] Finish my projects
 - [ ] Make my game
 - [x] Be cool
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
