@@ -4,7 +4,7 @@
 > Welcome to my GitHub profile.
 
 To-Do list:
-- [ ] Fully create my GitHub readme
+- [x] Fully create my GitHub readme
 - [ ] Finish my projects
 - [ ] Make my game
 - [x] Be cool
