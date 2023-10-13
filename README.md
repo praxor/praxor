@@ -3,10 +3,11 @@
 ### I am _praxor_, the real one, of course.
 > Welcome to my GitHub profile.
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=praxor&show_icons=true&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=praxor&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 To-Do list:
 - [x] Fully create my GitHub readme
+- [ ] Finish my website (4/5)
 - [ ] Finish my projects
 - [ ] Make my game
 - [x] Be cool
