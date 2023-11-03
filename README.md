@@ -7,7 +7,7 @@
 
 To-Do list:
 - [x] Fully create my GitHub readme
-- [ ] Finish my website (4/5)
-- [ ] Finish my projects
+- [x] Finish my website (for now...)
+- [ ] Learn more programming languages
 - [ ] Make my game
-- [x] Be cool
+- [x] Be cool (i am already cool)
